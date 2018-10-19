@@ -1,2 +1,2 @@
 # re2dfa
-regular experssion to DFA convertor
+regular expression to DFA convertor
